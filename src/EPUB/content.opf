@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <meta property="dcterms:modified">2025-08-30T20:50:28Z</meta>
+    <meta property="dcterms:modified">2025-09-15T03:41:52Z</meta>
     <meta name="generator" content="Ebook-lib 0.19.0"/>
     <dc:identifier id="id">20250830205028</dc:identifier>
     <dc:title>लूनी</dc:title>
@@ -9,17 +9,17 @@
     <dc:creator id="creator">लक्ष्मीप्रसाद देवकोटा</dc:creator>
     <dc:date>2025-08-30T20:50:28Z</dc:date>
     <dc:publisher>Sahityaras</dc:publisher>
-    <source_publisher>साझा प्रकाशन</source_publisher>
-    <source_edition>छैटौँ</source_edition>
-    <source_year>२०६०</source_year>
-    <source_isbn>99933-2-307-1</source_isbn>
-    <book_about>शेर्पा समुदायकी एक युवतीलाई चित्रण गरिएको यो छोटो काव्य भोटे-सेलोमा लेखिएको छ, जुन एक विशिष्ट नेपाली लोकगीत हो। काव्यले उत्तरी हिमालय क्षेत्रको हेलम्बुको प्रकृतिको सुन्दर चित्रण गर्दछ। १६ वटा अध्याय विभाजित, महाकाव्यले लुनीको कथाको वर्णन गर्दछ, जसलाई उनको प्रेमीबाट जबरजस्ती अलग गरि ल्हासाका राजकुमारसँग विवाह गरिएको हुन्छ र अन्ततः घर फर्काइएको हुन्छ। महाकाव्यमा बौद्ध दर्शन र बौद्ध मठहरूको पनि सन्दर्भ छ।</book_about>
-    <book_genre>गीतिकाव्य</book_genre>
-    <book_slug>luni</book_slug>
+    <meta name="source_publisher" content="साझा प्रकाशन"></meta>
+    <meta name="source_edition" content="छैटौँ"></meta>
+    <meta name="source_year" content="२०६०"></meta>
+    <meta name="source_isbn" content="99933-2-307-1"></meta>
+    <meta name="book_about" content="शेर्पा समुदायकी एक युवतीलाई चित्रण गरिएको यो छोटो काव्य भोटे-सेलोमा लेखिएको छ, जुन एक विशिष्ट नेपाली लोकगीत हो। काव्यले उत्तरी हिमालय क्षेत्रको हेलम्बुको प्रकृतिको सुन्दर चित्रण गर्दछ। १६ वटा अध्याय विभाजित, महाकाव्यले लुनीको कथाको वर्णन गर्दछ, जसलाई उनको प्रेमीबाट जबरजस्ती अलग गरि ल्हासाका राजकुमारसँग विवाह गरिएको हुन्छ र अन्ततः घर फर्काइएको हुन्छ। महाकाव्यमा बौद्ध दर्शन र बौद्ध मठहरूको पनि सन्दर्भ छ।"></meta>
+    <meta name="book_genre" content="गीतिकाव्य"></meta>
+    <meta name="book_slug" content="luni"></meta>
     <meta name="cover" content="cover-img"></meta>
   </metadata>
   <manifest>
-    <item href="../styles/global.css" id="static_0" media-type="text/css"/>
+    <item href="styles/global.css" id="static_0" media-type="text/css"/>
     <item href="images/cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
     <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
     <item href="text/coverpage.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
